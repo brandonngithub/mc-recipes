@@ -1,8 +1,6 @@
 ## ~ recipes ~
+<p>The very first project from TheOdinProject (Foundations Course).</p>
+<p>Create a recipe page to showcase basic HTML knowledge (no CSS styling).</p>
 
-<p>The very first project from TheOdinProject (Foundations)!</p>
-<p>Create a recipe page to showcase basic HTML knowledge.</p>
-
-Project: Recipes <br>
-The Odin Project <br>
-Foundations Course
+## Tech Used
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
