@@ -6,7 +6,7 @@
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ## Links:
-- [Link to the Assignment](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)
+- [Link to the Assignment](https://www.theodinproject.com/lessons/foundations-recipes)
 - [Minecraft](https://www.minecraft.net/en-us)
 
 ## Screenshots:
