@@ -9,7 +9,7 @@
 
 ## Links:
 - [LIVE DEMO](https://brandonngithub.github.io/recipes/)
-- [Link to the Assignment](https://www.theodinproject.com/lessons/foundations-recipes)
+- [Link to Assignment](https://www.theodinproject.com/lessons/foundations-recipes)
 - [Minecraft](https://www.minecraft.net/en-us)
 
 ## Screenshots:
