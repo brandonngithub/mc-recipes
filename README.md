@@ -20,4 +20,4 @@
 
 ## Author:
 - GitHub: [brandonngithub](https://github.com/brandonngithub)
-- LinkedIn: [Brandon](https://www.linkedin.com/in/brandon-ngo-8a6a94241/)
+- LinkedIn: [Brandon Ngo](https://www.linkedin.com/in/brandon-ngo-8a6a94241/)
