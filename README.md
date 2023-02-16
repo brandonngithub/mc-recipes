@@ -1,5 +1,5 @@
 ## ~ recipes ~
-[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[LIVE DEMO](https://brandonngithub.github.io/recipes/)
 <p>Done with a little Minecraft twist! Clicking on a recipe will show the instructions and ingredients required to make the dish. Through this project I learned how to operate the terminal, use basic git, and write clean code that is understandable to others. In HTML I learned how to create a boilerplate, headers, paragraphs, images, links, and lists. </p>
 
 ## Tech Used:
