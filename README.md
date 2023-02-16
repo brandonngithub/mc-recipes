@@ -1,16 +1,11 @@
 ## ~ recipes ~
-<p>The very first project from TheOdinProject (Foundations Course).</p>
+<p>[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)</p>
 <p>Done with a little Minecraft twist! Clicking on a recipe will show the instructions and ingredients required to make the dish. Through this project I learned how to operate the terminal, use basic git, and write clean code that is understandable to others. In HTML I learned how to create a boilerplate, headers, paragraphs, images, links, and lists. </p>
 
 ## Tech Used:
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - UNIX terminal
-- Git and GitHub
-
-## Links:
-- [LIVE DEMO](https://brandonngithub.github.io/recipes/)
-- [Link to Assignment](https://www.theodinproject.com/lessons/foundations-recipes)
-- [Minecraft](https://www.minecraft.net/en-us)
+- Git
 
 ## Screenshots:
 <img width="1440" alt="1" src="https://user-images.githubusercontent.com/91623674/200907208-723faf0b-67e2-403b-808e-5db7a727fc94.png">
